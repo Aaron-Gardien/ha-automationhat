@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "push_interval": "[%key:common::config_flow::data::push_interval%]"
+        }
+      }
+    },
+    "error": {
+      "automation_hat_not_present": "[%key:common::config_flow::error::automation_hat_not_present%]",
+      "invalit_parameters": "[%key:common::config_flow::error::invalit_parameters%]",
+      "unknown": "[%key:common::config_flow::error::unknown%]"
+    },
+    "abort": {
+      "already_configured": "[%key:common::config_flow::abort::already_configured_device%]"
+    }
+  }
+}
