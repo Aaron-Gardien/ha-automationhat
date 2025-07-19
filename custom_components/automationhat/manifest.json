@@ -1,11 +1,11 @@
 {
   "domain": "automationhat",
   "name": "AutomationHat",
-  "codeowners": ["@marcvivet"],
+  "codeowners": ["@aarongardien"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/marcvivet/ha_automation_hat",
-  "issue_tracker": "https://github.com/marcvivet/ha_automation_hat/issues",
+  "documentation": "https://github.com/Aaron-Gardien/ha-automationhat",
+  "issue_tracker": "https://github.com/Aaron-Gardien/ha-automationhat/issues",
   "iot_class": "local_push",
   "requirements": ["automationhat"],
   "version": "1.0.0"
