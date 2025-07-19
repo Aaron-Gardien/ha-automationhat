@@ -9,14 +9,14 @@ INPUT_NAMES = ["one", "two", "three"]
 
 # Input display names
 INPUT_DISPLAY_NAMES = {
-    "one": "Digital Input 1",
-    "two": "Digital Input 2", 
-    "three": "Digital Input 3"
+    "one": "Input 1",
+    "two": "Input 2", 
+    "three": "Input 3"
 }
 
 # Input device classes (can be customized per input)
 INPUT_DEVICE_CLASSES = {
     "one": "opening",
-    "two": "motion",
-    "three": "occupancy"
+    "two": "opening",
+    "three": "opening"
 }
