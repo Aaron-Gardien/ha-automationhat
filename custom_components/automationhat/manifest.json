@@ -1,7 +1,7 @@
 {
   "domain": "automationhat",
   "name": "AutomationHat",
-  "codeowners": ["@aarongardien"],
+  "codeowners": ["@aaron-gardien"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/Aaron-Gardien/ha-automationhat",
